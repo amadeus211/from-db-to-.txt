@@ -1,4 +1,0 @@
-1, 837, Bogdan Marchenko, test addres member, 967733222, Others, 11AM - 1PM, 2023-02-01, 2023-02-17, 800, Paid
-2, 0934312, test member, test address 23, 9457735, Male, 1PM - 3PM, 2023-01-30, 2023-02-26, 1350, Paid
-3, 0198, Member 123, Test addres 123, 967658901, Female, 11AM - 1PM, 2023-03-07, 2023-03-24, 850, Paid
-4, 01923, Sasha Stepanenko, Cherkasy, 98479180, Male, 11AM - 1PM, 2023-02-07, 2023-04-01, 2650, Paid
